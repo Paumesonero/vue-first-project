@@ -35,6 +35,7 @@ const onOptionSelected = (isCorrect) => {
 
 <template>
   <div>
+    <p>heading</p>
     <Header :questionStatus="questionStatus" :barPercentage="barPercentage" />
     <div>
       <Question
