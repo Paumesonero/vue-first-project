@@ -17,6 +17,7 @@ const showQuizDetail = () => {
     </div>
   </div>
 </template>
+
 <style scoped>
 .card {
   width: 310px;
